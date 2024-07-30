@@ -27,4 +27,4 @@ jobs:
           app-name: 'excalcippgmyr3'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0C57AAF11E6C4B8490D5C4DA6586F2B9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD286E95D2D743F6B6C1EB46A6C56A3A }}
